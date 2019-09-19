@@ -11,7 +11,7 @@ General Format
 - 5 minutes on our specific analysis in relation to computation and what is our specific needs for computers
 - 5 minutes for results and greater impacts
 - 5 minutes for questions
-
+ 
 
 
 Table of Contents
